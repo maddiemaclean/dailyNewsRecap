@@ -1,0 +1,16 @@
+NOTES 
+
+- The available categories are : general, world, nation, business, technology, entertainment, sports, science and health.
+    1. world
+    2. business
+    3. technology
+    4. entertainment
+    5. sports
+    6. science
+    7. health
+
+- Location
+    1. Australia - au
+    2. Canada - ca
+    3. United Kingdom - gb
+    4. United States - us
