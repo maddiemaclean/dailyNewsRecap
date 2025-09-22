@@ -1,6 +1,7 @@
 # Project Structure
 
 Please note that this project was developed on an alternative Github account, I am just adding it here for my resume.
+
 **File Structure**
 ```
 yourDailyNewsBites/
@@ -77,4 +78,5 @@ c. categories
 d. news
 - /api/news/getStories (GET): Returns all daily stories for a specific category
 ```
+
 
